@@ -1,4 +1,5 @@
 Pokémon Card Component
+
 Este componente Vue.js exibe detalhes de um Pokémon selecionado, como nome, experiência (XP), altura e imagem, com animações para destacar a interface do usuário.
 Estrutura do Componente
 Script Setup: Utiliza defineProps para receber as propriedades nome, xp, height, img, e loading, que são passadas ao componente.
